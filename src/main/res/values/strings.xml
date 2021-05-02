@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Places</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Add place</string>
+    <string name="no_item">No Items. Please Click + button to add place</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#e55b43</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorAccent">#000000</color>
+    <color name="circleBorder">#eaeaea</color>
+    <color name="unreadDiary">#F57C00</color>
+    <color name="mainBg"> #f4f4f4</color>
+    <color name="greenBtnBgMain">#63c674</color>
+    <color name="basicFontColor">#464646</color>
+    <color name="logBackground">#f2f2f2</color>
+    <color name="logButton">#63c674</color>
+    <color name="tabBg">#F9F9F9</color>
+    <color name="fadeColor">#9E9E9E</color>
+    <color name="humburgerBackground">#d55b43</color>
+    <color name="fadeBlack">#303030</color>
+    <color name="alertboxborder">#bebeb6</color>
+    <color name="lightGreen">#C5E1A5</color>
+    <color name="selectionColor">#F1F8E9</color>
+    <color name="greenText">#1a7b04</color>
+    <color name="disabledText">#E9E6E6</color>
+    <color name="blueText">#4593e7</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="mainBgForMaharshi">#f5e2d0</color>
+    <color name="mainBg_for_excel">#e93037</color>
+    <color name="red">#F60A0A</color>
+    <color name="green">#1FDC13</color>
+    <color name="blue">#1D5EF2</color>
+    <color name="tango">#F07228</color>
+    <color name="amber">#FFBF00</color>
+</resources>

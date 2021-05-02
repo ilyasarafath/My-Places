@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsFragment">
+
+<LinearLayout
+    android:layout_alignParentTop="true"
+    android:layout_width="wrap_content"
+    android:layout_above="@+id/footer"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/unitText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="Select Temperature unit" />
+
+    <RadioGroup
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tempGroup">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Standard"
+            android:id="@+id/stndBtn"
+            android:checked="true"
+            android:textSize="25dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Metric"
+            android:id="@+id/stndMetric"
+            android:checked="false"
+            android:textSize="25dp" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Imperial"
+            android:id="@+id/stndImp"
+            android:checked="false"
+            android:textSize="25dp" />
+    </RadioGroup>
+</LinearLayout>
+
+    <include layout="@layout/footer" />
+
+</RelativeLayout>
