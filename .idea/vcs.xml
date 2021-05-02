@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/campxeye_master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/march" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/marketplace_app_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parenteye_int/pe_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webxApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zoom" vcs="Git" />
+  </component>
+</project>
